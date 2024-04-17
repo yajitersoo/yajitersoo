@@ -1,9 +1,9 @@
 <h1>Hi, I'm Tersoo! <br/><a href="https://github.com/yajitersoo/StaticMapsGeopandas/blob/main/README.md">GIS Specialist</a>, <a href="https://immap.org/employee/tersoo-yaji/">Information Management Specialist</a>, <a href="https://www.linkedin.com/in/tersoo-yaji-441706107/">Data Analyst</a>, <a href="https://github.com/yajitersoo">Data Scientist</a></h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 GIS Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Spatial Insights</b>
+  - [Simplifying Choropleth Mapping with Geopandas and Mapclassify](https://github.com/yajitersoo/StaticMapsGeopandas/blob/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 

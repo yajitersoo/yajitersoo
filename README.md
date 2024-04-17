@@ -1,7 +1,8 @@
 ![Design and Development](https://yajitersoo.github.io/jsonapi/profile-bg.png)
+</br>
 
-
-
+<p> Dynamic Information Management/GIS Specialist, Data Analyst, and Data Scientist passionate about coding and design, with a strong appreciation for inspiration. Skilled in deciphering and interpreting data to drive impactful business solutions. </p>
+</br>
 
 <h2>👨‍💻 GIS Projects:</h2>
 

@@ -1,3 +1,6 @@
+![Design and Development](https://yajitersoo.github.io/jsonapi/profile bg.png)
+
+
 <h1>Hi, I'm Tersoo! <br/><a href="https://github.com/yajitersoo/StaticMapsGeopandas/blob/main/README.md">GIS Specialist</a>, <a href="https://immap.org/employee/tersoo-yaji/">Information Management Specialist</a>, <a href="https://www.linkedin.com/in/tersoo-yaji-441706107/">Data Analyst</a>, <a href="https://github.com/yajitersoo">Data Scientist</a></h1>
 
 <h2>👨‍💻 GIS Projects:</h2>

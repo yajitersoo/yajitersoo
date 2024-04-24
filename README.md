@@ -8,6 +8,12 @@
 
 - <b>Spatial Insights</b>
   - [Simplifying Choropleth Mapping with Geopandas and Mapclassify](https://github.com/yajitersoo/StaticMapsGeopandas/blob/main/README.md)
+ 
+<h2>👨‍💻 Python Dash Projects:</h2>
+
+- <b>Interractive Dashboards</b>
+  - [Displacement Tracking Matrix | Site Assessment | North-East Nigeria](https://github.com/yajitersoo/dtm_dashboard/blob/main/README.md)
+
 
 <h2> 🤳 Connect with me:</h2>
 
